@@ -101,9 +101,6 @@ See `.env.example` in each of `backend/` and `frontend/` for the full list (DB c
 | POST | /api/reminders | Set a reminder |
 | GET | /api/dashboard | Analytics stats |
 
-## Screenshots
-_Add screenshots of the dashboard, contest list, and calendar view here once the UI is built._
-
 ## Future Improvements
 - Push notifications (web push) in addition to email
 - Rating-change auto-sync from Codeforces/CodeChef APIs
